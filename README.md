@@ -39,3 +39,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## License
+<font size="2"> Licensed under the <a href="https://github.com/techmack92/horiseon-marketing-solution-services/blob/main/LICENSE"> **MIT**</a> license.</font>
