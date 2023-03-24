@@ -4,7 +4,7 @@
 
  <font size="2"> This application is built for a marketing service that includes a navigation bar with three topics that, when selected, scrolls to the respective section.</br>
  It also includes a brief summarization of the services that are offered and how these services can be useful to your brand. </br>
- There is a sidebar that displays strategies that will help you reach thhe goals you set for your brand's success.</br>
+ There is a sidebar that displays strategies that will help you reach the goals you set for your brand's success.</br>
 
 The refactored code includes standard accessibilty attributes, semantic HTML elements and logical structure.</br>
 
