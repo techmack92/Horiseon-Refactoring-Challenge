@@ -1,24 +1,32 @@
-# Horiseon Marketing Solutions Services Application: 
-# Refactoring source code & adding accessiblity 
+# Horiseon Marketing Solutions Services Application: Refactoring source code & adding accessiblity 
 
 ## Description
 
- This application is built for a marketing service that includes a navigation bar with three topics that, when selected, scrolls to the respective section.
- It also includes a brief summarization of the services that are offered and how these services can be useful to your brand. 
- There is a sidebar that displays strategies that will help you reach thhe goals you set for your brand's success.
+ <font size="2"> This application is built for a marketing service that includes a navigation bar with three topics that, when selected, scrolls to the respective section.</br>
+ It also includes a brief summarization of the services that are offered and how these services can be useful to your brand. </br>
+ There is a sidebar that displays strategies that will help you reach thhe goals you set for your brand's success.</br>
 
-The refactored code includes standard accessibilty attributes, semantic HTML elements and logical structure.
+The refactored code includes standard accessibilty attributes, semantic HTML elements and logical structure.</br>
+
+The link to the live application is  <a href="https://techmack92.github.io/horiseon-marketing-solution-services/" style="color:red">***HERE.***</font></a></br>
+
+The following images show the web application's appearance and functionality:</font>
+
+<img src="assets/images/Screenshot1.png" width="1000">
+<img src="assets/images/Screenshot2.png" width="1000">
+</br>
+
 
 
 ## User Story
-
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-
+```
 
 ## Acceptance Criteria
-
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -30,4 +38,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+```
