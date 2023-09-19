@@ -8,7 +8,7 @@
 
 The refactored code includes standard accessibilty attributes, semantic HTML elements and logical structure.</br>
 
-The link to the live application is  <a href="https://techmack92.github.io/horiseon-marketing-solution-services/" style="color:red">***HERE.***</font></a></br>
+The link to the live application is  <a href="https://techmack92.github.io/horiseon-marketing-solution-services/" style="color:red" target="_blank">***HERE.***</font></a></br>
 
 The following images show the web application's appearance and functionality:</font>
 
