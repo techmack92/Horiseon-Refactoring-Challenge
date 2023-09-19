@@ -2,15 +2,15 @@
 
 ## Description
 
- <font size="2"> This application is built for a marketing service that includes a navigation bar with three topics that, when selected, scrolls to the respective section.</br>
+This application is built for a marketing service that includes a navigation bar with three topics that, when selected, scrolls to the respective section.</br>
  It also includes a brief summarization of the services that are offered and how these services can be useful to your brand. </br>
  There is a sidebar that displays strategies that will help you reach the goals you set for your brand's success.</br>
 
 The refactored code includes standard accessibilty attributes, semantic HTML elements and logical structure.</br>
 
-The link to the live application is  <a href="https://techmack92.github.io/horiseon-marketing-solution-services/" style="color:red" target="_blank">***HERE.***</font></a></br>
+The link to the live application is  <a href="https://techmack92.github.io/horiseon-marketing-solution-services/" >***HERE.***</a></br>
 
-The following images show the web application's appearance and functionality:</font>
+The following images show the web application's appearance and functionality:
 
 <img src="assets/images/Screenshot1.png" width="1000">
 <img src="assets/images/Screenshot2.png" width="1000">
