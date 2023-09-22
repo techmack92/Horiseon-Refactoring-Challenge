@@ -84,7 +84,7 @@ p {
     background-color: #2589bd;
 }
 
-/*Consolidated unnecassary and redundant classes into one article element selector for the article elements, headers and images*/
+/*Consolidated unnecessary and redundant classes into one article element selector for the article elements, headers and images*/
 article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +101,7 @@ article img {
     max-width: 150px;
 }
 
-/*Consolidated unnecassary and redundant classes into one main element selector for the main section and section images and headers*/
+/*Consolidated unnecessary and redundant classes into one main element selector for the main section and section images and headers*/
 main section {
     margin-bottom: 20px;
     padding: 50px;
